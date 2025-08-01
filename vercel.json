@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm --filter=v4 build",
+  "devCommand": "pnpm --filter=v4 dev",
+  "installCommand": "pnpm install",
+  "outputDirectory": "apps/v4/.next",
+  "framework": "nextjs"
+}
